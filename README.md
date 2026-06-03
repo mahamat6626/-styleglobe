@@ -36,7 +36,7 @@ StyleGlobe is a modern, user-friendly fashion and clothing e-commerce mobile app
 
 ## 🔗 Figma Project Link
 
-🎨 [View StyleGlobe Figma Design →](https://www.figma.com/make/mi4wqDYUynKQsvYK1j6KD1/Fashion-Shopping-App-UI?t=sLx2GPXpLJGwsnXi-1&preview-route=%2Fonboarding)
+[🎨 [View StyleGlobe Figma Design →](https://www.figma.com/make/mi4wqDYUynKQsvYK1j6KD1/Fashion-Shopping-App-UI?t=sLx2GPXpLJGwsnXi-1&preview-route=%2Fonboarding)](https://www.figma.com/make/mi4wqDYUynKQsvYK1j6KD1/Fashion-Shopping-App-UI?t=sLx2GPXpLJGwsnXi-20&fullscreen=1&preview-route=%2Fonboarding)
 
 ---
 
